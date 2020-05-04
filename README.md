@@ -1,2 +1,2 @@
-# exercises
-exercises
+# Landing Page
+Udemy Course
